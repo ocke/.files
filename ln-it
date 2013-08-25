@@ -1,0 +1,3 @@
+ln -s ~/.files/.vimrc ~/.vimrc
+ln -s ~/.files/.bash_rc ~/.bash_rc
+ln -s ~/.files/.bash_profile ~/.bash_profile
