@@ -3,7 +3,6 @@ export SVN_EDITOR=vim
 
 alias mysql=/usr/local/mysql/bin/mysql
 alias mysqladmin=/usr/local/mysql/bin/mysqladmin
-alias irc='ssh olaf@27.32.234.154'
 
 # Setting PATH for Python 3.2
 # The orginal version is saved in .bash_profile.pysave
